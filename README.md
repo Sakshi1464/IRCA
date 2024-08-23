@@ -152,6 +152,5 @@ Future enhancements include:
 The system allows downloading of patient details from all modules, including family history, medical records, and more, in PDF format. This feature facilitates easy access to comprehensive patient data.
 
 You can view or download the full report of all modules from the following link:
-
-https://github.com/Girish2803/IRCA/blob/main/irca%20report.pdf
+[https://github.com/Sakshi1464/IRCA/blob/main/irca%20report.pdf]
 ---
